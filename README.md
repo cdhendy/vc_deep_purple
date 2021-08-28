@@ -40,7 +40,7 @@ This notebook was created using python 3.7.10. There were a number of issues wit
 ---
 ## Conclusion
 
-Contained within the notebook are the results of the analysis. If I were to improve on this project. 
+Contained within the notebook are the results of the analysis. 
 
 ---
 
